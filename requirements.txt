@@ -1,0 +1,17 @@
+python-dotenv
+openai
+pandas
+openpyxl
+huggingface_hub
+urllib3
+psycopg2-binary
+sentence-transformers
+pinecone-client
+pymupdf
+pytesseract
+pdfplumber
+fastapi
+python-docx
+uvicorn==0.25.0
+pypandoc
+comtypes
