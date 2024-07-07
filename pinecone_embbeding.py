@@ -29,7 +29,7 @@ def fetch_new_text_chunks():
     connection = psycopg2.connect(
         dbname='RPF-RAG',
         user='postgres',
-        password='@bhijeet911',
+        password='password',
         host='localhost',
     )
     cursor = connection.cursor()
