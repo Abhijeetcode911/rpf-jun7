@@ -50,7 +50,7 @@ def fetch_text_chunks(ids):
     connection = psycopg2.connect(
         dbname='RPF-RAG',
         user='postgres',
-        password='@bhijeet911',
+        password='password',
         host='localhost',
     )
     cursor = connection.cursor()
